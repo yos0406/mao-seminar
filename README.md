@@ -4,10 +4,10 @@ GitHub Pages機能を使って公開されたページは[こちら](https://elm
 https://elmas3.github.io/mao-seminar/
 
 # メンバー
-魔王教授
-エルマス
-わかば
-M先生
+- 魔王教授
+- エルマス
+- わかば
+- M先生
 
 # ディレクトリ構成
 ```
